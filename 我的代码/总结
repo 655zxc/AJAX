@@ -1,0 +1,12 @@
+2021.11.11
+2021.11.15
+2021.11.26
+
+1.json
+https://blog.csdn.net/c__dreamer/article/details/79451472
+
+2.防抖和节流
+
+3.同源和跨域
+页面中的JavaScript无法访问其他服务器上的数据，即“同源策略”。而跨域就是通过某些手段来绕过同源策略限制，实现不同服务器之间通信的效果
+http://code-ken.github.io/2016/07/13/jsonp-json-ajax/
